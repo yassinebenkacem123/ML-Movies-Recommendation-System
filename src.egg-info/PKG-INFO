@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A simple app for movie recommendations
+Author: YASSINE AYOUB
+Author-email: yassinebenkacem12@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+This is a simple movie recommendation system built using Streamlit.
